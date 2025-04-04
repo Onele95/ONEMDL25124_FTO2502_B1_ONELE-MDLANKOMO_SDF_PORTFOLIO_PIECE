@@ -1,6 +1,6 @@
 # Onele Mdlankomo - Professional Resume Website
 
-https://www.veed.io/edit/aecc60d4-d890-4685-9787-efb997c95655/media-audio
+https://drive.google.com/file/d/1xX94i_JRTWVHnQXSLCAmrHu2oU3wSmNc/view?usp=drive_link
 
 ## Overview
 This is Onele Mdlankomo's interactive digital resume highlighting:
